@@ -1,0 +1,2 @@
+phi at the center: 0.61357
+Lowest energy point: phi[0][0] = 0

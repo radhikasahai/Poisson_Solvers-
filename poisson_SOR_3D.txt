@@ -1,0 +1,2 @@
+Converged after 1 iterations.
+Iteration 1 time: 42306 microseconds
