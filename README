@@ -120,16 +120,6 @@ The water molecule is positioned with the oxygen atom near the origin and hydrog
 
 **Key Finding**: Finite Difference method is ~4.2× faster than Jacobi and ~1.9× faster than SOR for 2D problems.
 
-## Current Implementation Status
-
-| Feature | Status |
-|---------|--------|
-| Jacobi Iteration - 2D | ✅ Complete |
-| Jacobi Iteration - 3D | ✅ Complete |
-| SOR - 2D | ✅ Complete |
-| SOR - 3D | 🚧 In Progress |
-| Finite Difference - 2D | ✅ Complete |
-| Finite Difference - 3D | 🚧 In Progress |
 
 ## Future Work
 
